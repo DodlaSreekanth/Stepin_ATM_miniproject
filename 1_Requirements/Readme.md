@@ -14,23 +14,18 @@ The project is titled as **ATM Machine** and developed using C language.
  - GUI is needed
  
 ## Cost and Features
- - Easier Access
+ - EasierAccess
  
 
 ##  Defining our System
 
-![System Definition](https://github.com/Chaitu2134/miniproject/blob/main/5_images_and_videos/Flow.png)
+![System Definition](https://github.com/Thotakura-Bhavya/Stepin_ATM_miniproject/blob/59113ea2d87532eec3f8ac1d8a16a551c6b7eed4/1_Requirements/atm.jpg)
 
- Book Cricket have features like:
- -  Reading the names of the two players. 
- - Asking the user for the selection of Head/Tail during toss.
- - User who won the toss can select for the batting/bowling.
- -  Counting the score of each individual.
- - Announcing the winner of the game according to their score.
- - Display the name of the winner.
+ ATM have features like:
+ 
 
 ## SWOT Analysis
-![SWOT](https://github.com/Chaitu2134/miniproject/blob/main/5_images_and_videos/swot.png)
+![SWOT](https://github.com/Thotakura-Bhavya/Stepin_ATM_miniproject/blob/59113ea2d87532eec3f8ac1d8a16a551c6b7eed4/1_Requirements/atm.jpg)
 
 
 # 4 W's and 1 H
