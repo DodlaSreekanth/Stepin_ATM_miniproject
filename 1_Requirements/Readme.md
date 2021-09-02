@@ -9,9 +9,13 @@ The project is titled as **ATM Machine** and developed using C language.
 
  - Easy and faster access 
  - Better, longer-lasting customer relationships
+ - Offer 24/7 service
+ - Reduce bank workloads
  
  ### Disadvantages
  - GUI is needed
+ - Limitations on cash withdrawl
+ - Possibility of frauds
  
 ## Cost and Features
  - EasierAccess
