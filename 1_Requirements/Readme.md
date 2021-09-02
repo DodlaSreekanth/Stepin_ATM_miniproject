@@ -2,7 +2,8 @@
 
  ## Introduction
 
-The project is titled as **ATM Machine** and developed using C language. 
+ The Automated Teller Machine(ATM) allows bank customers to access their accounts without visiting the bank. This can only be accomplished by developing the application. The project is titled as **ATM Machine** and developed using C language.
+ When a user needs to withdraw cash, they can enter their PIN number (personal identification number) and the amount to be withdrawn will be displayed in the form of 100s, 500s and 1000s. Once their withdrawn was successful, the amount will be debited in their account.
 
 
 ### Advantages
@@ -35,6 +36,7 @@ The project is titled as **ATM Machine** and developed using C language.
 # 4 W's and 1 H
 
 ## Who
+Anyone with an ATM card can use the machine.
 
 
 ## What
