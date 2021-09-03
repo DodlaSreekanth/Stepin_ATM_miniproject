@@ -20,6 +20,8 @@
  
 ## Cost and Features
  - EasierAccess
+ - Low Cost
+ - 
  
 
 ##  Defining our System
@@ -38,20 +40,16 @@
 ## Who
 Anyone with an ATM card can use the machine.
 
-
 ## What
-
+It's an automatic machine to withdraw the money.
 
 ## When
-
-
+It is available 24X7, 365 days.
 
 ## Where
-
-
+It is available in various places.
 
 ## How
-
 This application was developed in C language to avoid the complexity and to keep it simple. 
 
 
