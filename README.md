@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# stepin_miniproject
+
+# Stepin_Miniproject
 
 ## Miniproject on ATM using C language
 ![capture](https://github.com/Thotakura-Bhavya/Stepin_ATM_miniproject/blob/59113ea2d87532eec3f8ac1d8a16a551c6b7eed4/1_Requirements/atm.jpg)
@@ -37,6 +37,4 @@ PS No. |  Name               |    Features    | Issuess Raised |Issues Resolved|
 |3. | Issues in workflows | filxed them by updating the path to all files correctly
 ### References
 
-=======
-# Stepin_ATM_miniproject
->>>>>>> 64e82d9a57ce6fce08cea93e9d25bce107109203
+
