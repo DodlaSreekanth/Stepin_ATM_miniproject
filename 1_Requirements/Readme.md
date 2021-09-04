@@ -2,19 +2,26 @@
 
  ## Introduction
 
-The project is titled as **ATM Machine** and developed using C language. 
+ The Automated Teller Machine(ATM) allows bank customers to access their accounts without visiting the bank. The project is titled as **ATM Machine** and developed using C language.
+ When a user needs to withdraw cash, they can enter their PIN number (personal identification number) and the amount to be withdrawn will be displayed in the form of 100s, 500s and 1000s. Once their withdrawn was successful, the amount will be debited in their account.
 
 
 ### Advantages
 
  - Easy and faster access 
  - Better, longer-lasting customer relationships
+ - Offer 24/7 service
+ - Reduce bank workloads
  
  ### Disadvantages
  - GUI is needed
+ - Limitations on cash withdrawl
+ - Possibility of frauds
  
 ## Cost and Features
  - EasierAccess
+ - Low Cost
+ - 
  
 
 ##  Defining our System
@@ -31,21 +38,18 @@ The project is titled as **ATM Machine** and developed using C language.
 # 4 W's and 1 H
 
 ## Who
-Every person with electrnic devices need games now a days.
+Anyone with an ATM card can use the machine.
 
 ## What
-A book cricket game where two players can play with each other almost like real cricket.
+It's an automatic machine to withdraw the money.
 
 ## When
-
-Due to the pandemic sitations, noone can go out and play cricket, so they can play this book cricket instead.
+It is available 24X7, 365 days.
 
 ## Where
-
-It can be played by everyone and everywhere irrespective of their age. 
+It is available in various places.
 
 ## How
-
 This application was developed in C language to avoid the complexity and to keep it simple. 
 
 
@@ -55,9 +59,9 @@ This application was developed in C language to avoid the complexity and to keep
 | ID | Description | Status |
 |--|--|--|
 | HR01 |Main Menu  | Implemented |
-| HR02 | Can be played by 2 players | Implemented |
-| HR03 | Toss |  Implemented |
-| HR04 | Batting/Bowling |  Implemented |
+| HR02 | Authentication | Implemented |
+| HR03 | Balance enguiry |  Implemented |
+| HR04 | Cash withdraw |  Implemented |
 | HR05 | Graphical User Interface | Future |
 
 
@@ -65,9 +69,9 @@ This application was developed in C language to avoid the complexity and to keep
 
 | ID | Description | HR ID | Status |
 |--|--|--|--|
-| LR01 |Main menu should consist 4 options asking for 1.Limited Overs 2.Play Until Out 3.Instructions For the Game 4.Quit  | HR01| Implemented |
-| LR02 | Reading the names of the two players and asking for the selection of head/tail while tossing the coin. | HR02| Implemented |
- LR03 | Implementing a function which takes the users according to the toss for the next steps which are batting/bowling. | HR03| Implemented |
-| LR04 | If user searches for an invalid key "Invalid Input" message should be displayed | HR03| Implemented |
-| LR05 |Implementing a fnction named batting which returns the total sum of the score of the two players. | HR04| Implemented |
+| LR01 |Main menu should consist 4 options  | HR01| Implemented |
+| LR02 | about | HR02| Implemented |
+ LR03 | Implementing  | HR03| Implemented |
+| LR04 | message should be displayed | HR03| Implemented |
+| LR05 |Implement | HR04| Implemented |
 | LR06 |A clean graphical user interface with all required buttons for ease of use  | HR05| Future |

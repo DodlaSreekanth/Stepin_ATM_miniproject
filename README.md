@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # stepin_miniproject
 
 ## Miniproject on ATM using C language
@@ -36,3 +37,6 @@ PS No. |  Name               |    Features    | Issuess Raised |Issues Resolved|
 |3. | Issues in workflows | filxed them by updating the path to all files correctly
 ### References
 
+=======
+# Stepin_ATM_miniproject
+>>>>>>> 64e82d9a57ce6fce08cea93e9d25bce107109203
