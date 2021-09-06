@@ -32,7 +32,7 @@
  
 
 ## SWOT Analysis
-![SWOT](https://github.com/Thotakura-Bhavya/Stepin_ATM_miniproject/blob/59113ea2d87532eec3f8ac1d8a16a551c6b7eed4/1_Requirements/atm.jpg)
+![SWOT](https://github.com/Thotakura-Bhavya/Stepin_ATM_miniproject/blob/f967580c51014d8255376cd13ef3ab0c8162106a/6_ImagesAndVideos/swot.jpg.drawio.png)
 
 
 # 4 W's and 1 H
