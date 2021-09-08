@@ -8,7 +8,7 @@
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
-
+      |          |  [![C/C++ CI](https://github.com/Thotakura-Bhavya/Stepin_ATM_miniproject/actions/workflows/c_build.yml/badge.svg)](https://github.com/Thotakura-Bhavya/Stepin_ATM_miniproject/actions/workflows/c_build.yml)|     |
 
 ## Folder Structure
 Folder                   | Description
