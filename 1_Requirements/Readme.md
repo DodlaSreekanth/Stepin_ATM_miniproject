@@ -5,19 +5,19 @@
  When a user needs to withdraw cash, they can enter their PIN number (personal identification number) and the amount to be withdrawn will be displayed in the form of 100s, 500s and 1000s. Once their withdrawn was successful, the amount will be debited in their account.
 
 ### Advantages
-- Easy and faster access 
-- Better, longer-lasting customer relationships
-- Offer 24/7 service
-- Reduce bank workloads
+-   Easy and faster access 
+-   Better, longer-lasting customer relationships
+-   Offer 24/7 service
+-   Reduce bank workloads
  
  ### Disadvantages
-- GUI is needed
-- Limitations on cash withdrawl
-- Possibility of frauds
+-   GUI is needed
+-   Limitations on cash withdrawl
+-   Possibility of frauds
  
 ## Cost and Features
-- EasierAccess
-- Low Cost
+-   EasierAccess
+-   Low Cost
 
 ## Defining our System
 ![System Definition](https://github.com/Thotakura-Bhavya/Stepin_ATM_miniproject/blob/61af31b6b097444731f596defb56e41ea0736241/6_ImagesAndVideos/define%20system.drawio.png)
