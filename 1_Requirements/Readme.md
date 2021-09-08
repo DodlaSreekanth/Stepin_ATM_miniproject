@@ -6,23 +6,23 @@
 
 
 ### Advantages
- - Easy and faster access 
- - Better, longer-lasting customer relationships
- - Offer 24/7 service
- - Reduce bank workloads
+- Easy and faster access 
+- Better, longer-lasting customer relationships
+- Offer 24/7 service
+- Reduce bank workloads
  
  ### Disadvantages
- - GUI is needed
- - Limitations on cash withdrawl
- - Possibility of frauds
+- GUI is needed
+- Limitations on cash withdrawl
+- Possibility of frauds
  
 ## Cost and Features
- - EasierAccess
- - Low Cost
+- EasierAccess
+- Low Cost
 
  
 
-##  Defining our System
+## Defining our System
 
 ![System Definition](https://github.com/Thotakura-Bhavya/Stepin_ATM_miniproject/blob/61af31b6b097444731f596defb56e41ea0736241/6_ImagesAndVideos/define%20system.drawio.png)
 
