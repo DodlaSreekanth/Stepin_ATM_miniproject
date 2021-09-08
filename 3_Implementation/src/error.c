@@ -17,7 +17,8 @@
 
  
 
-   void errorMessage() 
+   int errorMessage() 
 {
     printf("+++!!!You selected invalid number!!!+++\n");
+    return 9;
 }

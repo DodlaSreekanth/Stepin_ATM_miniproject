@@ -16,12 +16,12 @@
 #include"atm.h"
 
 //Functions
-void mainMenu(void);
-void checkBalance(float balance);
+int mainMenu(void);
+float checkBalance(float balance);
 float moneyDeposit(float balance);
 float moneyWithdraw(float balance);
-void menuExit(void);
-void errorMessage(void);
+int menuExit(void);
+int errorMessage(void);
 
 
 //Main Code

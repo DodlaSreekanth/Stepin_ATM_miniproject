@@ -15,10 +15,10 @@
 #include <math.h>
 #include"atm.h"
 
-void menuExit() {
+int menuExit() {
     printf("--------------Take your receipt!!!------------------\n");
     printf("-----Thank you for using ATM Banking Machine!!!-----\n");
-
+    return 5;
 
 }//exit menu
 

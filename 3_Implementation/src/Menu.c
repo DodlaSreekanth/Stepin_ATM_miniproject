@@ -15,7 +15,7 @@
 #include <math.h>
 #include"atm.h"
 
-void mainMenu() {
+int mainMenu() {
 
     printf("******************Hello!*******************\n");
     printf("**********Welcome to ATM Banking***********\n\n");
@@ -24,5 +24,6 @@ void mainMenu() {
     printf("< 2 >  Deposit\n");
     printf("< 3 >  Withdraw\n");
     printf("< 4 >  Exit\n\n");
+    return 6;
 
 }//Main Menu

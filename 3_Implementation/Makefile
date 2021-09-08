@@ -38,7 +38,7 @@ INCLUDE_LIBS =
 PROJECT_OUTPUT = $(BUILD)/$(PROJECT_NAME).out
 
 # Document files
-DOCUMENTATION_OUTPUT = documentation/html
+# DOCUMENTATION_OUTPUT = documentation/html
 
 # Default target built
 $(PROJECT_NAME):all
@@ -62,13 +62,14 @@ test:$(BUILD)
 	gcc $(TEST_SRC) $(INC) -o $(TEST_OUTPUT)
 	./$(TEST_OUTPUT)
 #Coverage
-coverageCheck:$(BUILD)
+coverage:$(BUILD)
 	g++ -fprofile-arcs -ftest-coverage -fPIC -O0 $(TEST_SRC) $(INC) -o $(TEST_OUTPUT)
 	./$(TEST_OUTPUT)
 
 # Remove all the built files, invoke by `make clean`
 clean:
-	rm -rf $(BUILD) $(DOCUMENTATION_OUTPUT)
+	rm -rf $(BUILD) 
+# $(DOCUMENTATION_OUTPUT)
 
 # Create new build folder if not present
 $(BUILD):
