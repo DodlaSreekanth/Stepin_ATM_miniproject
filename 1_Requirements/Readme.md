@@ -9,6 +9,7 @@
 -   Better, longer-lasting customer relationships
 -   Offer 24/7 service
 -   Reduce bank workloads
+-   easier to access
  
  ### Disadvantages
 -   GUI is needed
